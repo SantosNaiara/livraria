@@ -29,6 +29,10 @@ header h1 {
     margin-bottom: 15px;
 }
 
+header h2 {
+    margin: 30px;
+}
+
 nav ul {
     list-style: none; /* Remove a bolinha da lista */
 }
